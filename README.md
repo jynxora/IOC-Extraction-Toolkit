@@ -63,7 +63,7 @@ Total Unique IP addresses found - 7:
 
 ## READ the Report:
 
-[PDF Format]()
-[Markdown Format]()
+[PDF Format](./IOCExtractionReport.pdf)
+[Markdown Format](./IOCExtractionReport.md)
 
 ---
