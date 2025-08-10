@@ -61,10 +61,16 @@ Total Unique IP addresses found - 7:
 
 ---
 
-## READ the Report:
+## READ the Report/Scripts:
 
-[PDF Format](./IOCExtractionReport.pdf)
+[Report (PDF Format)](./IOCExtractionReport.pdf)
 
-[Markdown Format](./IOCExtractionReport.md)
+[Report (Markdown Format)](./IOCExtractionReport.md)
+
+[IP Finder](./ipFinder.py)
+
+[Domain Finder](./domainFinder.py)
+
+[Hashed Text Finder](./hashesFinder.py)
 
 ---
