@@ -64,6 +64,7 @@ Total Unique IP addresses found - 7:
 ## READ the Report:
 
 [PDF Format](./IOCExtractionReport.pdf)
+
 [Markdown Format](./IOCExtractionReport.md)
 
 ---
